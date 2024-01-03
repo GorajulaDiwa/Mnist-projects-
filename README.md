@@ -1,2 +1,2 @@
-# Mnist-projects
-mnist load with logistic regration,decision tree and svc
+# Mnist dataset's-projects
+mnist dataset's load with logistic regration,decision tree and svc
